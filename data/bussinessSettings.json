@@ -1,0 +1,50 @@
+﻿{
+  "DeliverySettings": {
+    "DeliveryModes": [
+      {
+        "Name": "На такси",
+        "Price": "0",
+        "PreOrderSettings": {
+          "MaxPreOrderDays": 5,
+          "PreOrderInterval": {
+            "totalMinutes" : 30
+          }
+        },
+        "PaymentMethods": [
+          "ЕРИП"
+        ],
+        "Comment": "Таски в стоимость не входит!"
+      }
+    ]
+  },
+  "WeekSchedule": [
+    {
+      "OpenTime": "10:00",
+      "CloseTime": "22:00"
+    },
+    {
+      "OpenTime": "10:00",
+      "CloseTime": "22:00"
+    },
+    {
+      "OpenTime": "10:00",
+      "CloseTime": "22:00"
+    },
+    {
+      "OpenTime": "10:00",
+      "CloseTime": "22:00"
+    },
+    {
+      "OpenTime": "10:00",
+      "CloseTime": "22:00"
+    },
+    {
+      "OpenTime": "10:00",
+      "CloseTime": "22:00"
+    },
+    {
+      "OpenTime": "10:00",
+      "CloseTime": "22:00"
+    }
+  ]
+}

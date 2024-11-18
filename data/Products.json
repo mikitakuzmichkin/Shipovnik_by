@@ -1,0 +1,138 @@
+﻿{
+  "Groups":[
+    {
+      "Name":"Молочный Бабл Ти",
+      "Products":[
+        {
+          "Name":"Карамельный молочный чай",
+          "Price":"10",
+          "Description":"Очень вкусный чай с топпингом и фруктовым сиропом",
+          "Ingredients":[
+            "чай",
+            "сироп",
+            "боба"
+          ],
+          "PhotoUrl": "https://ir-3.ozone.ru/s3/multimedia-c/w500/6836879640.jpg"
+        },
+        {
+          "Name":"Мятный молочный чай",
+          "Price":"9",
+          "Description":"Очень вкусный чай с топпингом и фруктовым сиропом",
+          "Ingredients":[
+            "чай",
+            "сироп",
+            "боба"
+          ],
+          "PhotoUrl": "https://cdn.food.ru/unsigned/fit/640/480/ce/0/czM6Ly9tZWRpYS9waWN0dXJlcy8yMDIzMDYyOS8zaER0NVEuanBlZw.jpg"
+        }
+      ]
+    },
+    {
+      "Name":"Фруктовый Бабл Ти",
+      "Products":[
+        {
+          "Name":"Гранатовый фруктовый чай",
+          "Price":"10",
+          "Description":"Очень вкусный чай с топпингом и фруктовым сиропом",
+          "Ingredients":[
+            "чай",
+            "сироп",
+            "боба"
+          ],
+          "PhotoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-p8jsiAQ9MW6LOr4iLUSvk_cgtN_DqDjQPg&s",
+          "Extras": ["1001","1002","1003","1004"],
+          "ModBlocks" : [
+            {
+              "Mods" : [
+                {
+                  "Name" : "Горячий",
+                  "AdditionalPrice" : 0
+                },
+                {
+                  "Name" : "Холодный",
+                  "AdditionalPrice" : 0
+                }
+              ]
+            },
+            {
+              "Mods" : [
+                {
+                  "Name" : "450мл",
+                  "AdditionalPrice" : 0
+                },
+                {
+                  "Name" : "650мл",
+                  "AdditionalPrice" : 2
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Name":"Кофе",
+      "Products":[
+        {
+          "Name":"Капучино",
+          "Price":"10",
+          "Description":"Очень вкусный чай с топпингом и фруктовым сиропом",
+          "Ingredients":[
+            "чай",
+            "сироп",
+            "боба"
+          ],
+          "PhotoUrl": "https://i-coffee.me/wp-content/uploads/2022/02/Coffee_Cappuccino_Cream_Cup_Saucer_525045_2048x1152.jpg"
+        },
+        {
+          "Name":"Эспрессо",
+          "Price":"10",
+          "Description":"Очень вкусный чай с топпингом и фруктовым сиропом",
+          "Ingredients":[
+            "чай",
+            "сироп",
+            "боба"
+          ],
+          "PhotoUrl": "https://static.insales-cdn.com/files/1/1782/16656118/original/table-coffee-glass-cup-drink-espresso-caffeine-cool-image-liqueur-cool-photo-flavor-irish-coffee.jpg"
+        },
+        {
+          "Name":"Бабл Кофе",
+          "Price":"10",
+          "Description":"Очень вкусный чай с топпингом и фруктовым сиропом",
+          "Ingredients":[
+            "чай",
+            "сироп",
+            "боба"
+          ],
+          "PhotoUrl": "https://static.tildacdn.com/tild3635-3662-4139-b865-303963613735/WhatsApp_Image_2022-.jpeg"
+        }
+      ]
+    }
+  ],
+  "Extras" : [
+    {
+      "Id" : "1001",
+      "Name":"Тапиока",
+      "Price":"2",
+      "PhotoUrl": "https://kifood.by/wp-content/uploads/2024/04/2-1024x1024.png"
+    },
+    {
+      "Id" : "1002",
+      "Name":"Кокосовое жел",
+      "Price":"2",
+      "PhotoUrl": "https://kifood.by/wp-content/uploads/2024/04/2-1024x1024.png"
+    },
+    {
+      "Id" : "1003",
+      "Name":"Клубничные джус-боллы",
+      "Price":"2",
+      "PhotoUrl": "https://kifood.by/wp-content/uploads/2024/04/2-1024x1024.png"
+    },
+    {
+      "Id" : "1004",
+      "Name":"Анансовые джус-боллы",
+      "Price":"2",
+      "PhotoUrl": "https://kifood.by/wp-content/uploads/2024/04/2-1024x1024.png"
+    }
+  ]
+}
