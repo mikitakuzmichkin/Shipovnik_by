@@ -6,9 +6,7 @@
         "Price": "0",
         "PreOrderSettings": {
           "MaxPreOrderDays": 5,
-          "PreOrderInterval": {
-            "totalMinutes" : 30
-          }
+          "PreOrderInterval": 3600
         },
         "PaymentMethods": [
           "ЕРИП"
